@@ -1,0 +1,59 @@
+[
+  {
+    "active": true,
+    "rol": "redes",
+    "nombres": "Redes",
+    "apellidoPaterno": "Sociales",
+    "apellidoMaterno": "",
+    "fechaNacimiento": "1983-07-13T19:00:00.000Z",
+    "domicilio": {},
+    "email": "redes@gmail.com",
+    "password": "$2a$10$SmukTbe2wtUbnE5nlnJOOOki1r9js27SpRh2GxlUupljA9hL7ojEC"
+  },
+  {
+    "active": true,
+    "rol": "user",
+    "nombres": "Código",
+    "apellidoPaterno": "Genérico",
+    "apellidoMaterno": "",
+    "nombreCompleto": "Código Genérico",
+    "fechaNacimiento": "1983-07-13T19:00:00.000Z",
+    "domicilio" : {
+      "calle" : "Conocida",
+      "numero" : "777",
+      "asentamiento" : "",
+      "municipio" : "",
+      "estado" : "",
+      "codigoPostal" : 80050
+    },
+    "profile" : {
+      "codigo" : "",
+      "tareasTerminadas" : 0
+  },
+    "email": "usuario@gmail.com",
+    "password": "$2a$10$SmukTbe2wtUbnE5nlnJOOOki1r9js27SpRh2GxlUupljA9hL7ojEC",
+    "usuarioGenerico": true
+  },
+  {
+    "active": true,
+    "rol": "candidato",
+    "nombres": "Candidato",
+    "apellidoPaterno": "Morena",
+    "apellidoMaterno": "",
+    "fechaNacimiento": "1983-07-13T19:00:00.000Z",
+    "domicilio": {},
+    "email": "candidato@gmail.com",
+    "password": "$2a$10$SmukTbe2wtUbnE5nlnJOOOki1r9js27SpRh2GxlUupljA9hL7ojEC"
+  },
+  {
+    "active": true,
+    "rol": "admin",
+    "nombres": "admin",
+    "apellidoPaterno": "admin",
+    "apellidoMaterno": "admin",
+    "fechaNacimiento": "1983-07-13T19:00:00.000Z",
+    "domicilio": {},
+    "email": "admin@gmail.com",
+    "password": "$2a$10$SmukTbe2wtUbnE5nlnJOOOki1r9js27SpRh2GxlUupljA9hL7ojEC"
+  }
+]
